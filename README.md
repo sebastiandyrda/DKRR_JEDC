@@ -13,5 +13,38 @@ This repository contains the research materials associated with the paper "[Livi
 
 To clone this repository and run the programs, you will need [Git](https://git-scm.com/) and [Programming Language Environment/Software], such as [R](https://www.r-project.org/) or [Python](https://www.python.org/). Clone this repository using the following command:
 
-```bash
-git clone [Repository URL]
+
+Then, navigate to the `programs/` directory and follow the instructions in the README to install any required dependencies.
+
+## Usage
+
+To reproduce the analysis:
+
+1. Ensure you have installed all necessary software and libraries as described in the `programs/` README.
+2. Run the scripts in the `programs/` directory in the order specified. These scripts will process the data, perform the analysis, and generate the output files.
+3. View the generated output in the `output/` folder.
+
+## Contributing
+
+Contributions to this project are welcome. Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## License
+
+[License Name] - This project is licensed under the [License Name] License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- We thank [Acknowledgments].
+
+## Contact
+
+For any questions or comments regarding this repository, please contact:
+
+- Greg Kaplan - [Email]
+- José Víctor Ríos Rull - [Email]
