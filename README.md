@@ -37,11 +37,12 @@ Dyrda, S., and B. Pugsley (2023), "The Rise of Pass-throughs: An Empirical Inves
 For those who wish to use BibTeX, you can cite the paper using the following entry:
 
 ```bibtex
-@unpublished{DyrdaPugsley2023RiseOfPassThroughs,
-  title={The Rise of Pass-throughs: An Empirical Investigation},
-  author={Dyrda, Sebastian and Pugsley, Benjamin},
-  year={2023},
-  note={Unpublished Manuscript}
+@article{dkrr2024_jedc,
+  title={Living Arrangements and Labor Market Volatility of Young Workers},
+  author={Dyrda, Sebastian and Kaplan, Greg and Ríos-Rull, José Víctor},
+  journal={Journal of Economic Dynamics and Control},
+  year={2024},
+  note={Forthcoming}
 }
 ```
 
