@@ -1,6 +1,6 @@
 # "Living Arrangements and Labor Market Volatility of Young Workers" Replication Repository
 
-This repository is dedicated to replicating the results from the paper titled **["Living Arrangements and Labor Market Volatility of Young Workers"](https://www.dyrda.info/files/dkrr_jedc.pdf)** by Sebastian Dyrda, Greg Kaplan and José Víctor Ríos Rull, forthcoming in the Journal of Economic Dynamics and Control.
+This repository is dedicated to replicating the results from the paper titled **["Living Arrangements and Labor Market Volatility of Young Workers"](https://www.dyrda.info/files/dkrr_jedc.pdf)** by [Sebastian Dyrda](https://www.dyrda.info/) (University of Toronto), [Greg Kaplan](https://gregkaplan.me/) (University of Chicago, e61 Institute and NBER) and José Víctor Ríos Rull (University of Pennsylvania, UCL, CAERP, CEPR, and NBER), forthcoming in the Journal of Economic Dynamics and Control.
 
 ## Repository Contents
 
