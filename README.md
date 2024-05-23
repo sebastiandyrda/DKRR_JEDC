@@ -6,7 +6,7 @@ This repository is dedicated to replicating the results from the paper titled **
 
 The repository contains the following folders for replication purposes:
 
-1. **data**: Data from the Current Population Survey (CPS)
+1. **data**: Data from the Current Population Survey (CPS).
 2. **manuscript**: The original paper detailing the findings and methodology used in the study.
 3. **output**: Figures and tables used in the paper.
 4. **programs**: MATLAB and Stata files generating figures and tables used in the paper.
@@ -52,7 +52,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contacts
 - [Sebastian Dyrda](https://www.dyrda.info/), University of Toronto
-- [Benjamin Pugsley](https://www.benjaminpugsley.com/), University of Notre Dame
+- [Greg Kaplan](https://gregkaplan.me/), University of Chicago, e61 Institute and NBER
+- [José Víctor Ríos Rull](https://www.sas.upenn.edu/~vr0j/), University of Pennsylvania, UCL, CAERP, CEPR, and NBER
 
 Thank you for visiting this repository. For any questions or feedback, please open an issue in this repository.
-- 
+
