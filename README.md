@@ -18,12 +18,12 @@ To replicate the results presented in the paper, follow these steps:
 1. Clone this repository to your local machine.
 2. Ensure you have MATLAB, Dynare and Stata installed on your computer.
 3. Run the MATLAB file `run_all_matlab.m` to replicate the figures and tables.
-4. Execute the Stata file `run_all_stata.do` to generate the heatmaps and density plots.
+4. Execute the Stata file `run_all_stata.do` to generate figures from the data section.
 
 ## Requirements
 
 - MATLAB (for figures and tables)
-- Stata (for maps and density plots)
+- Stata (for figures in the data section)
 - Dynare package (for solving the model)
 
 ## Citation
