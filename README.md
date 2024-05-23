@@ -30,7 +30,7 @@ To replicate the results presented in the paper, follow these steps:
 
 If you use the data or replication files from this repository in your research, please cite the original paper as follows:
 
-Dyrda, S., and B. Pugsley (2023), "The Rise of Pass-throughs: An Empirical Investigation," Unpublished Manuscript.
+Dyrda, Sebastian, Greg Kaplan, and José Víctor Ríos Rull. "Living Arrangements and Labor Market Volatility of Young Workers." Journal of Economic Dynamics and Control, 2024, Forthcoming.
 
 ### BibTeX
 
